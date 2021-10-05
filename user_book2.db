@@ -8218,7 +8218,7 @@ sfen lnsgk1snl/4r1gb1/1ppp1p2p/p3p1pR1/9/P1P6/1P1PPPP1P/1BG6/LNS1KGSNL w Pp 14
 #48
 5a6b 3i4h 0 36 1
 #5d5e 2d2h 10 36 1
-飛25歩88角成同銀42銀96歩94歩68玉54歩48銀 2018/08/04,depth36で探索。
+#飛25歩88角成同銀42銀96歩94歩68玉54歩48銀 2018/08/04,depth36で探索。
 sfen lnsgkg1nl/5sr2/1ppp1p1pp/p3p1p2/7P1/P1P6/1P1PPPP1P/1S1K1S1R1/LN1G1G1NL w Bb 14
 #-88
 1c1d 8h7g 0 36 1
@@ -17599,7 +17599,7 @@ sfen lnsg1g1nl/1k2r4/1pp2pbpp/p2p1sp2/4p2P1/P1PS1SP2/1P1PPP2P/1BK1G2R1/LN1G3NL w
 sfen lnkg1g1nl/2s3r2/1ppp1pbpp/p4sp2/3Pp2P1/P1P2SP2/1P1GPP2P/1BK4R1/LNSG3NL w - 28
 #-107
 4a5b 6i6h 0 36 1
-$7a8b 8h7g -111 36 1
+#7a8b 8h7g -111 36 1
 #後手四間飛車 2019/11/04,depth36で探索。
 sfen lnsg3nl/1k2gr3/1p2psbpp/p1pp1pp2/7P1/P1P1P1P2/1PBPSP2P/1KG1G2R1/LNS4NL w - 28
 #-171
